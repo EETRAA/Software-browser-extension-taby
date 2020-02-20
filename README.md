@@ -12,3 +12,7 @@ here are some useful developer guide:
 - [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 
 - [https://developer.mozilla.org/en-US/docs/Web/Guide/API](https://developer.mozilla.org/en-US/docs/Web/Guide/API)
+
+A new way discovered, hope this works. :worried:
+
+:point_right: [userchrome](https://www.userchrome.org/how-create-userchrome-css.html)
